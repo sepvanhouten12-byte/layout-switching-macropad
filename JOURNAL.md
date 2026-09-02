@@ -16,3 +16,17 @@ I also thouroghly researched if the parts where compatible and it should be corr
 <img width="757" height="167" alt="Screenshot 2026-09-01 14 27 35" src="https://github.com/user-attachments/assets/a719c2ce-44c2-44ac-a114-155d8d987f45" />
 
 total time spent: 4h
+
+
+# September 2nd: PCB
+
+I started making and wiring the PCB
+the keyboard switches are wired and I should only have to do do the faders and potentiometer
+the keyboard switches all have diodes so I don't get ghosting 
+I am using the matrix wiring method to detect Wich key is pressed to save gpio2 with this gpio2 I also would be able to code later expansions
+
+<img width="546" height="381" alt="image" src="https://github.com/user-attachments/assets/6d23316d-3d26-4f74-8f0c-a66a80007b78" />
+<img width="727" height="505" alt="image" src="https://github.com/user-attachments/assets/8674533e-1b98-4d47-9900-4ae6b0279edf" />
+
+
+**Total time spent: 3h**
