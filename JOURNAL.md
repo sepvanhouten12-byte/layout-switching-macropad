@@ -3,20 +3,16 @@ https://github.com/sepvanhouten12-byte/layout-switching-macropad
 description: a macropad using kmk firmware that switches layouts with faders 
 created_at: "2026-09-1"
 
-september 1st:
-(disclaimer: i worked on this project before in macondo
-the feedback i got was make a pcb for it so I am taking the feedback and what i learned and now using it here. 
-so that is why I'd would have a higher time than normal on this commit)
+# September 1st: <journal entry title!>
 
-i chose my parts for the macropad today
-15 keyboaard switches 3 faders and 1 potentiometer 
-my microcontroller is the raspberri pi 2w 
-and my power scource will be a tp4056 with 1 or two 18650 rechargable batteries 
-I also thouroghly researched if the parts where compatible and it should be correct
+(disclaimer: i worked on this project before in macondo the feedback i got was make a pcb for it so I am taking the feedback and what i learned and now using it here. so that is why I'd would have a higher time than normal on this commit)
 
-<img width="757" height="167" alt="Screenshot 2026-09-01 14 27 35" src="https://github.com/user-attachments/assets/a719c2ce-44c2-44ac-a114-155d8d987f45" />
+i chose my parts for the macropad today 15 keyboaard switches 3 faders and 1 potentiometer my microcontroller is the raspberri pi 2w and my power scource will be a tp4056 with 1 or two 18650 rechargable batteries I also thouroghly researched if the parts where compatible and it should be correct
 
-total time spent: 4h
+<img src="https://private-user-images.githubusercontent.com/288311236/645007829-d716fc22-37d1-4842-9090-2f8c1d3232ed.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODgzNzE4NjMsIm5iZiI6MTc4ODM3MTU2MywicGF0aCI6Ii8yODgzMTEyMzYvNjQ1MDA3ODI5LWQ3MTZmYzIyLTM3ZDEtNDg0Mi05MDkwLTJmOGMxZDMyMzJlZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkwMlQxNzUyNDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ODQ2MDc2NTlmZDBlN2U4NmY3MzkyZmQ5M2FjZDM4YTg5OTE5N2NjMzMwZjYyMWU4OTVmMWQxNDRkNDNkOGQxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.gKYMVb8MHIlAsDVO_IBL-1B7wzyZiHLFG77WTNQji9g" alt="image"/><img width="991" height="173" alt="image" src="https://github.com/user-attachments/assets/f1b5a9e2-d636-4b56-825f-73bb96bd1dfd" />
+
+**Total time spent: 4h**
+
 
 
 # September 2nd: PCB
