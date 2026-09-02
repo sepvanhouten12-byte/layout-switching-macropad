@@ -3,7 +3,7 @@ https://github.com/sepvanhouten12-byte/layout-switching-macropad
 description: a macropad using kmk firmware that switches layouts with faders 
 created_at: "2026-09-1"
 
-# September 1st: <journal entry title!>
+# September 1st: <chose the parts>
 
 (disclaimer: i worked on this project before in macondo the feedback i got was make a pcb for it so I am taking the feedback and what i learned and now using it here. so that is why I'd would have a higher time than normal on this commit)
 
