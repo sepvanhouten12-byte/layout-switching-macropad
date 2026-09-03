@@ -27,3 +27,23 @@ I am using the matrix wiring method to detect Wich key is pressed to save gpio2 
 
 
 **Total time spent: 3h**
+
+
+# September 3rd: finishing the pcb
+
+i finished the wiring and did the routing of my pcb
+I also found out the raspberri pi pico only has 3 analog inputs so I scrapped the potentiometer
+and instead I'm doing just the 15 keyboard switches and 3 faders
+I also took the spare pins I had and put them on a 22 pin female headers for later expansions
+and took a 1x2 header for vsys and  gnd as power input
+also I decided to take a 4 layer PCB and make the 2 middle layers planes for gnd and 3v3 
+
+<img width="377" height="400" alt="image" src="https://github.com/user-attachments/assets/874ed2a6-cad7-4714-9880-486e902d7965" />
+<img width="554" height="405" alt="image" src="https://github.com/user-attachments/assets/0628d32a-503e-4969-b1e8-06f76351fb0a" />
+
+
+**Total time spent: 3h**
+
+
+
+
