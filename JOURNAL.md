@@ -46,4 +46,21 @@ also I decided to take a 4 layer PCB and make the 2 middle layers planes for gnd
 
 
 
+# September 7th: cad and alignment
+
+today I learned how to set the 0,0 coordinates on my PCB dezing grid so I could align the screw holes nicer 
+they are in each corner and 4 mm from the nearest two ends of the pcb
+I also started the cad model thee PCB will be mounted on.
+last I found out I need to make a minimum of 5 PCBs and it would cost 34-36 euros for production
+
+<img width="476" height="405" alt="image" src="https://github.com/user-attachments/assets/a90850a4-d9b6-4c30-854f-aa1092fbbbfe" />
+
+<img width="682" height="347" alt="image" src="https://github.com/user-attachments/assets/aa54b008-01a3-409d-99cf-728decf4c936" />
+
+
+**Total time spent: 4h**
+
+
+
+
 
