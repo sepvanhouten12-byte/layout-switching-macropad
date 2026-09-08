@@ -61,6 +61,15 @@ last I found out I need to make a minimum of 5 PCBs and it would cost 34-36 euro
 **Total time spent: 4h**
 
 
+# September 8th: cad and working on the case
+
+today I worked more on the case for the PCB and chose to let the raspberry pi 2w stick out of the top a bit because I thought it would be an nice asteatic 
+
+<img width="697" height="459" alt="image" src="https://github.com/user-attachments/assets/2eb2595a-6411-465e-8c06-14ef3bd35f1f" />
+
+
+**Total time spent: 1h**
+
 
 
 
