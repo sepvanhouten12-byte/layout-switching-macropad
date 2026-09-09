@@ -12,3 +12,6 @@ here are some screenshots of the datasheet and the finished PCB gerber
 
 as microcontroller it uses the raspberri pi pico 2w 
 and the pcb is 120 by 140 mm
+
+also here is the tinkercad link for my model
+https://www.tinkercad.com/things/2xOaqvWOUL6-layout-changing-macropad-case
