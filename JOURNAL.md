@@ -71,5 +71,13 @@ today I worked more on the case for the PCB and chose to let the raspberry pi 2w
 **Total time spent: 1h**
 
 
+# September 9th: bottom of case done
+
+today I finished the bottom part of the case I now have a place for the pico 2w data port a place for the USB c charging port and a hole for the wires of the expansion pin headers to go through but I cant make the top cover yet course I don't know exactly where some of the press able parts for the buttons are and I don't wanna mess t up so I will do that once it is shipped and the parts are here
+
+<img width="520" height="353" alt="image" src="https://github.com/user-attachments/assets/73288c8d-8750-490e-b909-51aaaa7fbac7" />
+
+
+**Total time spent: 1h**
 
 
