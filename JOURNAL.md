@@ -80,4 +80,24 @@ today I finished the bottom part of the case I now have a place for the pico 2w 
 
 **Total time spent: 1h**
 
+# September 9th: prices and shipping the project
+
+okay so the project should be ready to ship but before I do that I need to make the shopping karts with the prices also I looked a bit more into my hardware details and found out you cant use kmk with the raspberri pi pico 2w so I will be using other non hack club libraries
+but here are the screenshots of my cart 
+
+<img width="1361" height="647" alt="image" src="https://github.com/user-attachments/assets/a9617163-d5d5-4033-9e21-dba34758b7d4" />
+the pcb
+
+<img width="736" height="459" alt="image" src="https://github.com/user-attachments/assets/45d3f777-36a3-490f-8c7d-5e51e6790683" />
+<img width="1299" height="460" alt="image" src="https://github.com/user-attachments/assets/483429eb-4d66-4da0-9507-2d3491e21e2c" />
+otronic cart
+
+<img width="437" height="531" alt="image" src="https://github.com/user-attachments/assets/dbb58403-c35c-4931-bf05-0a2bdbb87884" />
+the keyboard swithes
+
+I couldn't get the akko switches cuz they wouldn't have them in stock for like 1 and a half months
+
+total costs: 108.60 euros
+
+**Total time spent: 4h**
 
