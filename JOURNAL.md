@@ -106,6 +106,7 @@ total costs: 108.60 euros
 i finally managed to turn my sttl file for the case into a step file 
 I tried like 33 stl to step converters and all of them didn't work but a friend had conversion software and converted it for me
 
+<img width="1027" height="38" alt="image" src="https://github.com/user-attachments/assets/be1f2f2f-0be6-4a9d-b657-e810f6b897f8" />
 
 **Total time spent: 2h**
 
