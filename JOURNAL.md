@@ -101,3 +101,12 @@ total costs: 108.60 euros
 
 **Total time spent: 4h**
 
+# September 10th: finally converted my stl to step
+
+i finally managed to turn my sttl file for the case into a step file 
+I tried like 33 stl to step converters and all of them didn't work but a friend had conversion software and converted it for me
+
+
+**Total time spent: 2h**
+
+
