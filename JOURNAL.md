@@ -110,4 +110,14 @@ I tried like 33 stl to step converters and all of them didn't work but a friend 
 
 **Total time spent: 2h**
 
+# September 14th: finally converted my stl to step
+finally found out how to organize my repo and organized it by putting uppercase letters in front so I get them in the order I wanted
+
+(disclaimer for shipping: I wanted to make and test code but it seems this is impossible because wokwi doesn't have a raspberri pi 2w microcontroller and I don't know another good simulator also no simulator can do Bluetooth connection so the only good and foolproof way to code it is when I have it physically that's why there isn't any code yet.)
+
+<img width="271" height="362" alt="image" src="https://github.com/user-attachments/assets/4f94ef09-60df-4631-807c-72b1fe871200" />
+
+**Total time spent: 2h**
+
+
 
