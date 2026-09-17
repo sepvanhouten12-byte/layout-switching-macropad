@@ -20,30 +20,26 @@ here is the picture in jlcpcb of the pcb
 <img width="671" height="169" alt="image" src="https://github.com/user-attachments/assets/cd122b70-51ae-4a58-b6f8-3e8aa165ad85" />
 <img width="675" height="483" alt="image" src="https://github.com/user-attachments/assets/e41a633f-d510-466a-9db5-01d010412bde" />
 
-BOM
 
-for my otronic kart we have
-Raspberry Pi Pico 2WH 11,95 eur
-2 channel linear fader 75 mm 10k x3 6,90 eur
-Diode 1N4148 Max 100V en 200mA x15 2,25 eur
-40 Pins header Female 2.54mm (OT156-B126) x3 1,95 eur
-3.7v rechargable 4000 mah lipo 10.95
-tp4056 lithium battery charging and protection cuircuit 2,40 eur
-shipping costs 6.99 eur
 
-total otronic kart: 43,39 eur
-
-gateron kart
-GATERON KS-3X1 Milky Yellow Red Pro Switch Set 9.10 eur
-shipping costs 4,90 eur
-
-total gateron kart: 14,00 eur
-
-jlcpcb kart
-5x 120x140 mm pcb 4 layer 1.60 mm thick black 43,30 eur
-shipping cost 24.91 eur
-coupon -10 eur
-
-total jlcpcb kart: 58.21 eur
-
-total price: 115.60
+| Item Description | Vendor | Qty | Unit Price | Total Price | Link |
+| :--- | :---: | :---: | :---: | :---: | :--- |
+| Raspberry Pi Pico 2WH | Otronic | 1 | €11.95 | €11.95 | [Link](https://otronic.nl) |
+| 2 Channel Linear Fader 75mm 10k | Otronic | 3 | €2.30 | €6.90 | [Link](https://otronic.nl) |
+| Diode 1N4148 Max 100V 200mA | Otronic | 15 | €0.15 | €2.25 | [Link](https://otronic.nl) |
+| 40 Pins Header Female 2.54mm (OT156-B126) | Otronic | 3 | €0.65 | €1.95 | [Link](https://otronic.nl) |
+| 3.7V Rechargeable 4000mAh LiPo Battery | Otronic | 1 | €10.95 | €10.95 | [Link](https://otronic.nl) |
+| TP4056 Lithium Battery Charging & Protection Circuit | Otronic | 1 | €2.40 | €2.40 | [Link](https://otronic.nl) |
+| Shipping Costs (Otronic) | Otronic | 1 | €6.99 | €6.99 | - |
+| **Otronic Subtotal** | | | | **€43.39** | |
+| | | | | | |
+| Gateron KS-3X1 Milky Yellow Red Pro Switch Set | Gateron | 1 | €9.10 | €9.10 | [Link](https://gateron.co) |
+| Shipping Costs (Gateron) | Gateron | 1 | €4.90 | €4.90 | - |
+| **Gateron Subtotal** | | | | **€14.00** | |
+| | | | | | |
+| 5x Custom PCBs (120x140mm, 4-Layer, 1.6mm, Black) | JLCPCB | 1 | €43.30 | €43.30 | [Link](https://jlcpcb.com) |
+| Shipping Costs (JLCPCB) | JLCPCB | 1 | €24.91 | €24.91 | - |
+| Coupon Discount | JLCPCB | 1 | -€10.00 | -€10.00 | - |
+| **JLCPCB Subtotal** | | | | **€58.21** | |
+| | | | | | |
+| **Grand Total** | | | | **€115.60** | |
