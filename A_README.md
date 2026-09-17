@@ -1,8 +1,10 @@
 hello this is my repo for my layout switching macropad
 here is a short description of my project more info is obtainable in the JOURNAL.md section
 
-I am making a macropad that will be rechargable and wireless 
-it has a 3x5 keyboard switch matrix and 3 faders and you can change what the switches do based on position of faders
+so I am making a programmable macropad you can code in python and uses the raspberri pi pico 2wh from otronic
+it will be rechargable and use Bluetooth the keyboardd part uses a 3x5 switch matrix and there will be 3 faders
+you can program the faders how you want but my plan is to make 1 of them switch the things the matrix does based on its position
+it will have a 3d printed case and keycaps and I will use the acetone trick on the keycaps to get them nice and shiny
 
 here are some screenshots of the datasheet and the finished PCB gerber
 
@@ -20,7 +22,7 @@ here is the picture in jlcpcb of the pcb
 <img width="671" height="169" alt="image" src="https://github.com/user-attachments/assets/cd122b70-51ae-4a58-b6f8-3e8aa165ad85" />
 <img width="675" height="483" alt="image" src="https://github.com/user-attachments/assets/e41a633f-d510-466a-9db5-01d010412bde" />
 
-
+BOM
 
 | Item Description | Vendor | Qty | Unit Price | Total Price | Link |
 | :--- | :---: | :---: | :---: | :---: | :--- |
