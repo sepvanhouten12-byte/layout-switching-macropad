@@ -15,3 +15,11 @@ and the pcb is 120 by 140 mm
 
 also here is the tinkercad link for my model
 https://www.tinkercad.com/things/2xOaqvWOUL6-layout-changing-macropad-case
+
+here is the picture in jlcpcb of the pcb
+<img width="671" height="169" alt="image" src="https://github.com/user-attachments/assets/cd122b70-51ae-4a58-b6f8-3e8aa165ad85" />
+<img width="675" height="483" alt="image" src="https://github.com/user-attachments/assets/e41a633f-d510-466a-9db5-01d010412bde" />
+
+BOM
+
+
