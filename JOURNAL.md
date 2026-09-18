@@ -129,5 +129,11 @@ I'm really a bit against the use of AI but this time I had to and now the BOM is
 
 **Total time spent: 3h**
 
+# September 18th: fixed readme name
+I fixed the name of the readme
+<img width="244" height="313" alt="image" src="https://github.com/user-attachments/assets/3603edd8-ba58-4d95-811c-dd073228d0fe" />
+
+**Total time spent: 0.3h**
+
 
 
