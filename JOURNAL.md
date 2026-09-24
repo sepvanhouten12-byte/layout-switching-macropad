@@ -122,8 +122,7 @@ finally found out how to organize my repo and organized it by putting uppercase 
 
 # September 17th:made the Gerber a step file
 I made my Gerber a step file so that the reviewers coud see it 
-and fixed my BOM I really tried to do it manually but I just didn't get it
-I'm really a bit against the use of AI but this time I had to and now the BOM is fixed
+and fixed my BOM
 
 <img width="257" height="378" alt="image" src="https://github.com/user-attachments/assets/f0496402-1d22-4568-bd28-5e4522624e16" />
 
