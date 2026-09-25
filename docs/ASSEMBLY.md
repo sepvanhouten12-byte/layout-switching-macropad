@@ -46,4 +46,3 @@ Check the polarity and make sure there are no shorts before connecting the batte
 
 The firmware still needs to be added
 
-first i want to test each key then the faders and then the layout switching
