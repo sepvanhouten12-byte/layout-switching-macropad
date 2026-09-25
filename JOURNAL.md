@@ -134,5 +134,12 @@ I fixed the name of the readme because I couldn't name it A_README.md for organi
 
 **Total time spent: 0.3h**
 
+# September 25th: fixed the file issues and organized the repo
+I fixed my file issues and organized my full the build instructions are placed in the docs file and everything should be ready
+
+**Total time spent: 4.3h**
+
+
+
 
 
