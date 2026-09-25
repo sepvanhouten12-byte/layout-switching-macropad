@@ -137,6 +137,8 @@ I fixed the name of the readme because I couldn't name it A_README.md for organi
 # September 25th: fixed the file issues and organized the repo
 I fixed my file issues and organized my full the build instructions are placed in the docs file and everything should be ready
 
+<img width="265" height="506" alt="image" src="https://github.com/user-attachments/assets/a6e190aa-f548-47d6-a501-2b3f8eb6b731" />
+
 **Total time spent: 4.3h**
 
 
