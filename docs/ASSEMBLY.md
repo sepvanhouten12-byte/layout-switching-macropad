@@ -15,7 +15,6 @@ i have not finished building the final version yet so some things can still chan
 - female headers
 - tp4056 charging board
 - battery
-- 1x2 pin header for the charging power input
 
 The full list is in the [bom](../bom.csv)
 
@@ -38,7 +37,7 @@ The battery and charging circuit need extra care. Do this wiring before screwing
 1. Identify the TP4056 battery pads marked `B+` and `B-`, and the charging-input pads marked `IN+` and `IN-` (sometimes these are labelled `+` and `-`). Do not confuse the battery pads with the input pads.
 2. Solder the Li-ion battery's **red wire to `B+`** on the TP4056.
 3. Solder the Li-ion battery's **black wire to `B-`** on the TP4056.
-4. Solder the 1x2 pin header to the TP4056's charging-power input: one pin to `IN+` and the other pin to `IN-`. The positive pin must go to `IN+` and the ground/negative pin must go to `IN-`. This 1x2 header is the power input for the charger; it is not a replacement for the battery connection on `B+`/`B-`.
+4. Use pliers to separate the required number of pins from a larger header strip and make a 2-pin header for the charging-power input. Solder one pin to `IN+` and the other pin to `IN-`. The positive pin must go to `IN+` and the ground/negative pin must go to `IN-`. This header is the power input for the charger; it is not a replacement for the battery connection on `B+`/`B-`.
 5. Inspect every solder joint and use a multimeter to verify that positive and negative are not shorted. Check the header polarity against the schematic before applying power or connecting the battery.
 
 Before closing the case, place the TP4056 onto its two 3D-printed locating pins. Lay the battery in the case in its intended position, with the wires routed so they cannot be pinched. Only after the TP4056 and battery are positioned correctly should you place and screw the PCB into the case. Make sure the PCB, screws, and case cannot press on or damage the battery or its wires.
