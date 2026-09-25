@@ -139,7 +139,7 @@ I fixed my file issues and organized my full the build instructions are placed i
 
 <img width="265" height="506" alt="image" src="https://github.com/user-attachments/assets/a6e190aa-f548-47d6-a501-2b3f8eb6b731" />
 
-**Total time spent: 4.3h**
+**Total time spent: 4.7h**
 
 
 
