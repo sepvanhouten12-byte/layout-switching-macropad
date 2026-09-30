@@ -46,10 +46,6 @@ there are also spare pins on female headers for possible future expansions. the 
 
 <img width="682" height="347" alt="case and pcb design" src="https://github.com/user-attachments/assets/aa54b008-01a3-409d-99cf-728decf4c936" />
 
-### production design
-
-<img width="257" height="378" alt="gerber and production design" src="https://github.com/user-attachments/assets/f0496402-1d22-4568-bd28-5e4522624e16" />
-
 ## BOM
 
 | Item | Vendor | Qty | Unit price | Total price |
