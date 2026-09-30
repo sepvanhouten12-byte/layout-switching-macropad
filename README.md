@@ -1,81 +1,90 @@
-hello this is my repo for my layout switching macropad
+# layout switching macropad
 
-here is a short description of my project more info is obtainable in the JOURNAL.md section
+A custom macropad that switches layouts with faders and runs on a Raspberry Pi Pico 2W using KMK firmware.
 
-so i am making a programmable macropad you can code in python and it uses the raspberry pi pico 2wh from otronic
+This is my little hardware + firmware build: a programmable 3x5 keyboard with 3 analog sliders that can change what the keys do depending on the slider position. The idea is basically a tiny, rechargeable, custom keyboard that can act like multiple layouts in one device.
 
-it will be rechargeable and use bluetooth the keyboard part uses a 3x5 switch matrix and there will be 3 faders
+## why I made this
 
-you can program the faders how you want but my plan is to make one of them switch what the matrix does based on its position
+I wanted a macropad that felt more flexible than a normal fixed-key board. Instead of just one set of keybindings, I wanted a device where the physical controls themselves could switch modes. The faders are the main bit here: one slider can shift the keyboard into a different layer, while the other keys can stay the same shape and feel.
 
-it will have a 3d printed case and keycaps and i will use the acetone trick on the keycaps to get them nice and shiny
+So yeah, this is part custom PCB project, part CAD/case project, part firmware project, and all of it is me learning as I go.
 
-## files
+## features
 
-here are the files for the project
+- 15 mechanical keys in a 3x5 layout
+- 3 faders for layout switching / control
+- Raspberry Pi Pico 2W as the controller
+- rechargeable battery setup
+- custom PCB and 3D printed case
+- designed to be programmable in Python with KMK
+- expansion headers for future stuff
 
-- [cad files](cad/)
-- [production files](production/)
-- [assembly notes](docs/ASSEMBLY.md)
-- [project journal](JOURNAL.md)
+## project structure
 
-The original files are still in the main folder for now because github does not let me move the uploaded binary files with the tools i have here
+- [JOURNAL.md](JOURNAL.md) — the build log and progress notes
+- [docs/ASSEMBLY.md](docs/ASSEMBLY.md) — assembly notes and build details
+- [cad/](cad/) — CAD files and case work
+- [production/](production/) — production/export files
+- [bom.csv](bom.csv) — parts list
+- [PCB_Z_PCB_macropad-pcb_2026-09-25.json](PCB_Z_PCB_macropad-pcb_2026-09-25.json) — PCB JSON export
+- [X_Schematic_macropad-pcb_2026-09-09.pdf](X_Schematic_macropad-pcb_2026-09-09.pdf) — schematic
+- [Y_layout%20changing%20macropad%20case.step](Y_layout%20changing%20macropad%20case.step) — case step model
 
-## pictures
+## current status
 
-here are some screenshots of the datasheet and the finished pcb gerber
+This project is still in progress. I’ve reached the point where the PCB, case, and design files are mostly laid out, but the firmware and a few final production steps still need finishing.
 
-<img width="554" height="405" alt="image" src="https://github.com/user-attachments/assets/745ea788-668e-4b7a-aa24-76ef30555ff5" />
+Right now the biggest remaining work is:
 
-<img width="456" height="427" alt="image" src="https://github.com/user-attachments/assets/7d3516fb-3036-4b6c-b328-384c5336aaa9" />
+- adding the final gerber zip to the production folder
+- checking the STEP model in CAD and making sure the full assembly is valid
+- finishing the firmware and testing the behavior of the fader-based layout switching
 
-as microcontroller it uses the raspberry pi pico 2w
-and the pcb is 120 by 140 mm
+## gallery
 
-also here is the tinkercad link for my model
-https://www.tinkercad.com/things/2xOaqvWOUL6-layout-changing-macropad-case
+Here are a few of the key design and build shots from the project:
 
-here is the picture in jlcpcb of the pcb
+<img width="554" height="405" alt="project render" src="https://github.com/user-attachments/assets/745ea788-668e-4b7a-aa24-76ef30555ff5" />
 
-<img width="671" height="169" alt="image" src="https://github.com/user-attachments/assets/cd122b70-51ae-4a58-b6f8-3e8aa165ad85" />
-<img width="675" height="483" alt="image" src="https://github.com/user-attachments/assets/e41a633f-d510-466a-9db5-01d010412bde" />
+<img width="456" height="427" alt="pcb design" src="https://github.com/user-attachments/assets/7d3516fb-3036-4b6c-b328-384c5336aaa9" />
 
-## design files
+<img width="671" height="169" alt="jlcpcb view" src="https://github.com/user-attachments/assets/cd122b70-51ae-4a58-b6f8-3e8aa165ad85" />
 
-- [pcb json file](PCB_Z_PCB_macropad-pcb_2026-09-25.json)
-- [schematic pdf](X_Schematic_macropad-pcb_2026-09-09.pdf)
-- [case step file](Y_layout%20changing%20macropad%20case.step)
-- [bom](bom.csv)
+<img width="675" height="483" alt="pcb board" src="https://github.com/user-attachments/assets/e41a633f-d510-466a-9db5-01d010412bde" />
 
-The pcb json file is the file i uploaded again after the reviewer said the old one would not open
+## hardware notes
 
-I checked that it is in the repository and that it contains the pcb data but i cannot open the file in a pcb editor from github
+The board is designed around the Raspberry Pi Pico 2W, with a 3x5 switch matrix and 3 faders. The PCB is 120mm x 140mm, and the case is meant to be 3D printed and assembled around it.
 
-it should be opened in the same pcb program that exported it
-
-## what still needs doing
-
-i still need to add the gerber zip to the production folder
-
-i also need to check the step file in a cad program and make sure the full assembly opens and all the parts are there
-
-the firmware is not finished yet either
+The original files are still sitting in the main folder for now because GitHub is a little annoying about moving uploaded binary files around with the tools I have here.
 
 ## BOM
 
-| Item Description | Vendor | Qty | Unit Price | Total Price | Link |
-| :--- | :---: | :---: | :---: | :---: | :--- |
-| Raspberry Pi Pico 2WH | Otronic | 1 | €11.95 | €11.95 | [Link](https://otronic.nl) |
-| 2 Channel Linear Fader 75mm 10k | Otronic | 3 | €2.30 | €6.90 | [Link](https://otronic.nl) |
-| Diode 1N4148 Max 100V 200mA | Otronic | 15 | €0.15 | €2.25 | [Link](https://otronic.nl) |
-| 40 Pins Header Female 2.54mm | Otronic | 3 | €0.65 | €1.95 | [Link](https://otronic.nl) |
-| 3.7V Rechargeable 4000mAh LiPo Battery | Otronic | 1 | €10.95 | €10.95 | [Link](https://otronic.nl) |
-| TP4056 Lithium Battery Charging and Protection Circuit | Otronic | 1 | €2.40 | €2.40 | [Link](https://otronic.nl) |
-| Gateron KS-3X1 Milky Yellow Red Pro Switch Set | Gateron | 1 | €9.10 | €9.10 | [Link](https://gateron.co) |
-| 5x Custom PCBs | JLCPCB | 1 | €43.30 | €43.30 | [Link](https://jlcpcb.com) |
-| Shipping and discount | Various | 1 |  | €29.41 |  |
-| **Grand Total** |  |  |  | **€115.60** |  |
+A rough parts list is below. For the full version, check [bom.csv](bom.csv).
+
+| Item | Vendor | Qty | Price |
+| --- | --- | ---: | ---: |
+| Raspberry Pi Pico 2WH | Otronic | 1 | €11.95 |
+| 2 Channel Linear Fader 75mm 10k | Otronic | 3 | €6.90 |
+| 1N4148 diode | Otronic | 15 | €2.25 |
+| 40-pin female header | Otronic | 3 | €1.95 |
+| 3.7V rechargeable LiPo battery | Otronic | 1 | €10.95 |
+| TP4056 charging/protection board | Otronic | 1 | €2.40 |
+| Gateron KS-3X1 switches | Gateron | 1 set | €9.10 |
+| PCB production | JLCPCB | 1 batch | €43.30 |
+| Shipping / discount | Various | 1 | €29.41 |
+| Total |  |  | €115.60 |
+
+## design links
+
+- Tinkercad model: https://www.tinkercad.com/things/2xOaqvWOUL6-layout-changing-macropad-case
 
 ## license
 
-this project uses the cc0 license
+This project uses the CC0 license.
+
+## a quick note
+
+This project is still very much a personal build and a learning project, but that’s kinda the point. I wanted to make something useful, custom, and a little weird in the best way. If you want to see the full journey, the build notes are in [JOURNAL.md](JOURNAL.md).
+
