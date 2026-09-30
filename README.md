@@ -2,23 +2,21 @@
 
 A custom macropad that switches layouts with faders and runs on a Raspberry Pi Pico 2W using KMK firmware.
 
-This is my little hardware + firmware build: a programmable 3x5 keyboard with 3 analog sliders that can change what the keys do depending on the slider position. The idea is basically a tiny, rechargeable, custom keyboard that can act like multiple layouts in one device.
+This is my little hardware + firmware build: a programmable 3x5 keyboard with 3 analog sliders that can change what the keys do based on the slider position. The idea is basically a small keyboard that can act like multiple layouts in one device, without needing a bunch of extra buttons or a super complicated setup.
 
-## why I made this
+I wanted something that felt more flexible than a normal fixed-key board, but still stayed compact and usable. The faders are the main thing here: one slider can change the active layout, while the rest of the board keeps the same physical layout and feel.
 
-I wanted a macropad that felt more flexible than a normal fixed-key board. Instead of just one set of keybindings, I wanted a device where the physical controls themselves could switch modes. The faders are the main bit here: one slider can shift the keyboard into a different layer, while the other keys can stay the same shape and feel.
-
-So yeah, this is part custom PCB project, part CAD/case project, part firmware project, and all of it is me learning as I go.
+So yeah, this is part custom PCB project, part CAD/case project, part firmware project, and a lot of learning as I go.
 
 ## features
 
 - 15 mechanical keys in a 3x5 layout
-- 3 faders for layout switching / control
+- 3 faders for layout switching and control
 - Raspberry Pi Pico 2W as the controller
 - rechargeable battery setup
 - custom PCB and 3D printed case
-- designed to be programmable in Python with KMK
-- expansion headers for future stuff
+- programmable in Python with KMK
+- expansion headers for future upgrades
 
 ## project structure
 
@@ -33,13 +31,13 @@ So yeah, this is part custom PCB project, part CAD/case project, part firmware p
 
 ## current status
 
-This project is still in progress. I’ve reached the point where the PCB, case, and design files are mostly laid out, but the firmware and a few final production steps still need finishing.
+This project is still in progress, but it’s getting close. The PCB, case, and design files are mostly in place, and the main remaining work is the firmware and a few final production details.
 
-Right now the biggest remaining work is:
+Right now the biggest things left are:
 
 - adding the final gerber zip to the production folder
 - checking the STEP model in CAD and making sure the full assembly is valid
-- finishing the firmware and testing the behavior of the fader-based layout switching
+- finishing the firmware and testing the fader-based layout switching
 
 ## gallery
 
@@ -57,7 +55,7 @@ Here are a few of the key design and build shots from the project:
 
 The board is designed around the Raspberry Pi Pico 2W, with a 3x5 switch matrix and 3 faders. The PCB is 120mm x 140mm, and the case is meant to be 3D printed and assembled around it.
 
-The original files are still sitting in the main folder for now because GitHub is a little annoying about moving uploaded binary files around with the tools I have here.
+The original files are still in the main folder for now because GitHub is a bit annoying about moving uploaded binary files around with the tools I have here.
 
 ## BOM
 
@@ -84,7 +82,6 @@ A rough parts list is below. For the full version, check [bom.csv](bom.csv).
 
 This project uses the CC0 license.
 
-## a quick note
+## quick note
 
-This project is still very much a personal build and a learning project, but that’s kinda the point. I wanted to make something useful, custom, and a little weird in the best way. If you want to see the full journey, the build notes are in [JOURNAL.md](JOURNAL.md).
-
+This project is still very much a personal build and a learning project, but that’s kinda the point. I wanted to make something useful, custom, and a little weird in the best way. If you want the full build story and all the little design decisions, the journal is in [JOURNAL.md](JOURNAL.md).
