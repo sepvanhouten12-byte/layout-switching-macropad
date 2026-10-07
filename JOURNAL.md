@@ -141,6 +141,16 @@ I fixed my file issues and organized my full the build instructions are placed i
 
 **Total time spent: 4.7h**
 
+# october 7th: polished the readme and customized the case
+over the course of oct 2nd oct 6th and oct 7th I polished the readme a bit
+and I customized the case I added its name on the side for the charging cables and stuff and I added a nice groove texture on the side
+im thinking about making a attachment point or anchor point so peapole can make attachments
+
+<img width="696" height="249" alt="image" src="https://github.com/user-attachments/assets/42a9e0ca-3de0-421f-90ed-6499daa2f417" />
+
+
+**Total time spent: 4h**
+
 
 
 
