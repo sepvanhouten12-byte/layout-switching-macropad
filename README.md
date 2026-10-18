@@ -40,6 +40,10 @@ there are also spare pins on female headers for possible future expansions. the 
 
 <img width="554" height="405" alt="pcb routing" src="https://github.com/user-attachments/assets/0628d32a-503e-4969-b1e8-06f76351fb0a" />
 
+final build without keycaps/case
+<img width="553" height="487" alt="image" src="https://github.com/user-attachments/assets/651567b3-0156-4607-b1c1-93cc81d50501" />
+
+
 ## BOM
 
 | Item | Vendor | Qty | Unit price | Total price |
