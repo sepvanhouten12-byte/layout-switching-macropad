@@ -151,6 +151,15 @@ im thinking about making a attachment point or anchor point so peapole can make 
 
 **Total time spent: 4h**
 
+# october 18th: made the case lid and caddied the final build
+I made and finished the lid today and I decided to make the pi pico visiblee I like that you can see some of its status lights then
+also I cadded the final build with the full PCB with parts and case I only left out the keycaps and the fader caps because I will need to get the right clearances
+and that is more convenient to do when you have the full build to get the correct sizes so you can get it to look right too
+(ps I have a 3d printer already so that is why there are no filament or printing services in the BOM)
+<img width="553" height="487" alt="image" src="https://github.com/user-attachments/assets/f6c66001-758c-462a-a9cc-ad53aa0ab084" />
+
+**Total time spent: 2h**
+
 
 
 
