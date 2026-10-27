@@ -168,6 +168,7 @@ undo redo save
 select all find print
 enter esc tab
 backspace delete space
+also fader one controls master volume faders 2 and 3 don't do anything yet
 
 I don't know if it works yet I cant simulate it also it only works over cable right now course I cant use Bluetooth plugins in the ide itself yet
 <img width="518" height="255" alt="image" src="https://github.com/user-attachments/assets/aa33241a-3362-4f95-a137-8acc144be58a" />
