@@ -160,6 +160,23 @@ and that is more convenient to do when you have the full build to get the correc
 
 **Total time spent: 2h**
 
+# october 27th: made some basic software
+made some really basic software for the macropad
+the rows do as follows
+copy paste cut
+undo redo save
+select all find print
+enter esc tab
+backspace delete space
+
+I don't know if it works yet I cant simulate it also it only works over cable right now course I cant use Bluetooth plugins in the ide itself yet
+<img width="518" height="255" alt="image" src="https://github.com/user-attachments/assets/aa33241a-3362-4f95-a137-8acc144be58a" />
+
+**Total time spent: 0.3h**
+
+
+
+
 
 
 
